@@ -5,4 +5,6 @@ geclont, diesen Satz hinzgefuegt.
 
 Diesen Satz via Web hinzugefuegt
 
-Noch was im alten Oskar geaendert
+Auch im Web wollen wir aendern
+
+
