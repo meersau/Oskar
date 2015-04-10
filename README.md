@@ -3,5 +3,4 @@ Oskar
 
 geclont, diesen Satz hinzgefuegt.
 
-Diesen Satz via Lokal hinzugefuegt.
-
+Diesen Satz via Web hinzugefuegt
