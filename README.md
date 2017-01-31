@@ -1,12 +1,6 @@
-Oskar
-=====
+# Oskar
 
-Ein Branch fuer Oskar - hier soll das Neue rein.
+Ein Name wie jeder andere auch.
 
 
-<<<<<<< HEAD
-Diesen Satz via Web hinzugefuegt
 
-Noch was im alten Oskar geaendert
-=======
->>>>>>> NeuerOskar
